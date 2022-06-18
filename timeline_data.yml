@@ -1,0 +1,43 @@
+# COLOR GUIDE
+# holiday = lightgreen
+# deadline = red
+# release = pink
+# misc = white
+
+events:
+  - name: "Christmas Eve Holiday!"
+    date: "Dec 24, 2021"
+    background: "lightgreen"
+  - name: "Christmas Day Holiday!"
+    date: "Dec 25, 2021"
+    background: "lightgreen"
+  - name: "New Year's Holiday!"
+    date: "Jan 1, 2022"
+    background: "lightgreen"
+  - name: "MLK Day Holiday!"
+    date: "Jan 18, 2022"
+    background: "lightgreen"
+  - name: "President's Day Holiday!"
+    date: "Feb 15, 2022"
+    background: "lightgreen"
+  - name: "Memorial Day Holiday!"
+    date: "May 30, 2022"
+    background: "lightgreen"
+  - name: "US Independence Day Holiday!"
+    date: "July 4, 2022"
+    background: "lightgreen"
+  - name: "US Labor Day Holiday!"
+    date: "Sept 5, 2022"
+    background: "lightgreen"
+  - name: "US Thanksgiving Day Holiday!"
+    date: "Nov 24, 2022"
+    background: "lightgreen"
+  - name: "Day After Thanksgiving Holiday!"
+    date: "Nov 25, 2022"
+    background: "lightgreen"
+  - name: "Christmas Eve Holiday!"
+    date: "Dec 23, 2022"
+    background: "lightgreen"
+  - name: "Christmas Holiday Holiday!"
+    date: "Dec 26, 2022"
+    background: "lightgreen"
